@@ -1,0 +1,60 @@
+h1{
+	margin-top: -20px;
+	background-color: silver;
+	font-family: "Verdana";
+	font-size: 300%;
+	text-align: center;
+	height: 50%;
+	padding: 3%;
+	color:#2C5176;
+}
+
+h2{
+	font-family: "Verdana";
+	font-size: 20px;
+	color:#2C5176;
+}
+
+h3{
+	font-family: "Verdana";
+	font-size: 40px;
+	color:#2C5176;
+}
+
+p{
+	font-style: sans-serif;
+	font-size: 30px;
+}
+
+li{
+	font-family: "Arial";
+	font-size: 20px;
+	color:silver;
+}
+a:link{
+		text-decoration: none;
+}
+
+.esq{
+	margin-left: 5%;
+	margin-right: 60%;
+
+}
+
+.nat{
+	margin-top: -330px;
+	margin-left: 40%;
+	margin-right: 5%;
+}
+
+.texto{
+	margin-left: 5%;
+	margin-right: 5%
+	margin-top:1%;
+}
+
+.link-voltar{
+	font-size: 30px;
+	font-family: "Verdana";
+
+}
